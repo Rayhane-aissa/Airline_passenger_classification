@@ -66,10 +66,7 @@ Implemented and compared various classification models including:
 ## ✅ 6. Final Results
 
 The best-performing model was **Random Forest**, achieving:
-- **Accuracy:** xx%
-- **Precision:** xx%
-- **Recall:** xx%
-- **F1 Score:** xx%
-- Integrated into a complete **pipeline** for deployment or future use.
+- **Accuracy:** 0.953%
+- **F1 Score:** 0.96%
 
 ---
