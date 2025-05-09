@@ -29,7 +29,7 @@ This is a **supervised classification machine learning project** focused on pred
 ### Models Used:
 Implemented and compared various classification models including:
 - Logistic Regression
-- Support Vector Classifier (SVC)
+- Decision tree
 - Random Forest
 
 ### Model Evaluation:
@@ -65,7 +65,7 @@ Implemented and compared various classification models including:
 
 ## ✅ 6. Final Results
 
-The best-performing model was **[Insert Model Name]**, achieving:
+The best-performing model was **Random Forest**, achieving:
 - **Accuracy:** xx%
 - **Precision:** xx%
 - **Recall:** xx%
